@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79" height="53">
+	<path fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" stroke-miterlimit="4" d="M7.5 11.25L30 11.25"/>
+	<path fill="none" stroke="rgb(231,69,54)" vector-effect="non-scaling-stroke" stroke-width="1" stroke-miterlimit="4" d="M7.5 41.25L30 41.25"/>
+	<path fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" stroke-miterlimit="4" d="M46.238 11.25L68.738 11.25"/>
+	<path fill="none" stroke="rgb(231,69,54)" vector-effect="non-scaling-stroke" stroke-width="1" stroke-miterlimit="4" d="M46.238 41.25L68.738 41.25"/>
+	<path fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" stroke-linejoin="round" d="M30 1.875L46.238 11.25L30 20.625L30 1.875Z"/>
+	<path fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" stroke-linejoin="round" d="M30 31.875L46.238 41.25L30 50.625L30 31.875Z"/>
+	<text font-size="9" font-family="Sabon LT Pro" x="0.5, " y="14.25, ">
+			0
+	</text>
+	<text font-size="9" font-family="Sabon LT Pro" x="1.5, " y="44.25, ">
+			1
+	</text>
+	<text font-size="9" font-family="Sabon LT Pro" x="70.737976, " y="14.25, ">
+			0
+	</text>
+	<text font-size="9" font-family="Sabon LT Pro" x="70.737976, " y="44.25, ">
+			1
+	</text>
+</svg>

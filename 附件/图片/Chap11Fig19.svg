@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="260" height="185">
+	<rect transform="translate(5 5)" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="7" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="35" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="7" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="7" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="7" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="7" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="91" y="7" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="7" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="7" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="7" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="14" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="91" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="21" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="63" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="28" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="35" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="35" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="35" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="63" y="35" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="35" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="35" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="35" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="35" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="35" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="35" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="7" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="35" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="133" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="42" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="49" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="63" y="49" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="49" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="7" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="35" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="91" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="119" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="133" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="56" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="63" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="63" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="63" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="63" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="63" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="133" y="63" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="63" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="63" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="63" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="70" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="70" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="70" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="70" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="70" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="70" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="70" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="70" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="35" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="49" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="119" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="77" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" y="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="91" y="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="119" y="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="84" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="49" y="91" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="91" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="91" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="91" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="133" y="91" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="91" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="91" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="91" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="91" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="49" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="91" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="119" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="133" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="98" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="49" y="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="133" y="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="105" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="63" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="91" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="119" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="133" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="112" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="119" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="63" y="119" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="119" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="119" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="119" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="119" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="119" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="119" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="119" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="7" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="35" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="126" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="63" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="133" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="91" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="119" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="133" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="168" y="140" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="91" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="119" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="140" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="147" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="84" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="91" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="126" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="133" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="154" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="161" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="161" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="161" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="77" y="161" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="112" y="161" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="119" y="161" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="147" y="161" width="7" height="7"/>
+	<rect transform="translate(5 5)" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="7" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="14" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="21" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="28" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="35" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="42" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="56" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="70" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="91" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="98" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="105" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="133" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="154" y="168" width="7" height="7"/>
+	<rect transform="translate(5 5)" x="161" y="168" width="7" height="7"/>
+	<rect fill="white" transform="translate(5 5)" x="168" y="126" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="169.42474, " y="131, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M175 126L175 133"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M168 133L175 133"/>
+	<rect transform="translate(5 5)" x="161" y="126" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="162.42474, " y="131, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 126L161 133"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 133L168 133"/>
+	<rect transform="translate(5 5)" x="168" y="119" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="169.42474, " y="124, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M175 119L175 126"/>
+	<rect transform="translate(5 5)" x="161" y="119" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="162.42474, " y="124, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 119L161 126"/>
+	<rect fill="white" transform="translate(5 5)" x="168" y="112" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="169.42474, " y="117, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M175 112L175 119"/>
+	<rect transform="translate(5 5)" x="161" y="112" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="162.42474, " y="117, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 112L161 119"/>
+	<rect transform="translate(5 5)" x="168" y="105" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="169.42474, " y="110, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M168 105L175 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M175 105L175 112"/>
+	<rect transform="translate(5 5)" x="161" y="105" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="162.42474, " y="110, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 105L161 112"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 105L168 105"/>
+	<rect fill="white" transform="translate(5 5)" x="168" y="98" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="169.42474, " y="103, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M175 98L175 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M168 105L175 105"/>
+	<rect transform="translate(5 5)" x="161" y="98" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="162.42474, " y="103, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 98L161 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 105L168 105"/>
+	<rect transform="translate(5 5)" x="168" y="91" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="169.42474, " y="96, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M175 91L175 98"/>
+	<rect transform="translate(5 5)" x="161" y="91" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="162.42474, " y="96, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 91L161 98"/>
+	<rect fill="white" transform="translate(5 5)" x="168" y="84" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="169.42474, " y="89, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M175 84L175 91"/>
+	<rect transform="translate(5 5)" x="161" y="84" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="162.42474, " y="89, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 84L161 91"/>
+	<rect transform="translate(5 5)" x="168" y="77" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="169.42474, " y="82, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M168 77L175 77"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M175 77L175 84"/>
+	<rect transform="translate(5 5)" x="161" y="77" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="162.42474, " y="82, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 77L161 84"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 77L168 77"/>
+	<rect fill="white" transform="translate(5 5)" x="168" y="70" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="169.42474, " y="75, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M175 70L175 77"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M168 77L175 77"/>
+	<rect transform="translate(5 5)" x="161" y="70" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="162.42474, " y="75, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 77L168 77"/>
+	<rect transform="translate(5 5)" x="168" y="63" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="169.42474, " y="68, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M168 63L175 63"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M175 63L175 70"/>
+	<rect transform="translate(5 5)" x="161" y="63" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="162.42474, " y="68, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 63L168 63"/>
+	<rect fill="white" transform="translate(5 5)" x="154" y="63" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="68, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M154 63L161 63"/>
+	<rect transform="translate(5 5)" x="147" y="63" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="68, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 63L147 70"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 63L154 63"/>
+	<rect transform="translate(5 5)" x="154" y="70" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="75, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M154 77L161 77"/>
+	<rect transform="translate(5 5)" x="147" y="70" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="75, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 70L147 77"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 77L154 77"/>
+	<rect fill="white" transform="translate(5 5)" x="154" y="77" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="82, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M154 77L161 77"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 77L161 84"/>
+	<rect fill="white" transform="translate(5 5)" x="147" y="77" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="82, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 77L147 84"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 77L154 77"/>
+	<rect transform="translate(5 5)" x="154" y="84" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="89, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 84L161 91"/>
+	<rect fill="white" transform="translate(5 5)" x="147" y="84" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="89, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 84L147 91"/>
+	<rect transform="translate(5 5)" x="154" y="91" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="96, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 91L161 98"/>
+	<rect transform="translate(5 5)" x="147" y="91" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="96, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 91L147 98"/>
+	<rect transform="translate(5 5)" x="154" y="98" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="103, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 98L161 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M154 105L161 105"/>
+	<rect fill="white" transform="translate(5 5)" x="147" y="98" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="103, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 98L147 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 105L154 105"/>
+	<rect fill="white" transform="translate(5 5)" x="154" y="105" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="110, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M154 105L161 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 105L161 112"/>
+	<rect transform="translate(5 5)" x="147" y="105" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="110, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 105L147 112"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 105L154 105"/>
+	<rect fill="white" transform="translate(5 5)" x="154" y="112" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="117, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 112L161 119"/>
+	<rect fill="white" transform="translate(5 5)" x="147" y="112" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="117, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 112L147 119"/>
+	<rect fill="white" transform="translate(5 5)" x="154" y="119" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="124, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 119L161 126"/>
+	<rect fill="white" transform="translate(5 5)" x="147" y="119" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="124, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 119L147 126"/>
+	<rect transform="translate(5 5)" x="154" y="126" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="131, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 126L161 133"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M154 133L161 133"/>
+	<rect transform="translate(5 5)" x="147" y="126" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="131, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 126L147 133"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 133L154 133"/>
+	<rect fill="white" transform="translate(5 5)" x="154" y="133" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="138, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M154 133L161 133"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 133L161 140"/>
+	<rect transform="translate(5 5)" x="147" y="133" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="138, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 133L147 140"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 133L154 133"/>
+	<rect transform="translate(5 5)" x="154" y="140" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="145, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 140L161 147"/>
+	<rect fill="white" transform="translate(5 5)" x="147" y="140" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="145, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 140L147 147"/>
+	<rect transform="translate(5 5)" x="154" y="147" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="152, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 147L161 154"/>
+	<rect transform="translate(5 5)" x="147" y="147" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="152, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 147L147 154"/>
+	<rect transform="translate(5 5)" x="154" y="154" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="159, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 154L161 161"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M154 161L161 161"/>
+	<rect transform="translate(5 5)" x="147" y="154" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="159, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 154L147 161"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 161L154 161"/>
+	<rect fill="white" transform="translate(5 5)" x="154" y="161" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="166, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M154 161L161 161"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 161L161 168"/>
+	<rect transform="translate(5 5)" x="147" y="161" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="166, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 161L154 161"/>
+	<rect transform="translate(5 5)" x="154" y="168" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="155.42474, " y="173, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M161 168L161 175"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M154 175L161 175"/>
+	<rect fill="white" transform="translate(5 5)" x="147" y="168" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="148.42474, " y="173, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 175L154 175"/>
+	<rect fill="white" transform="translate(5 5)" x="140" y="168" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="141.42474, " y="173, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M140 175L147 175"/>
+	<rect transform="translate(5 5)" x="133" y="168" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="134.42474, " y="173, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 168L133 175"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 175L140 175"/>
+	<rect fill="white" transform="translate(5 5)" x="140" y="161" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="141.42474, " y="166, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M140 161L147 161"/>
+	<rect fill="white" transform="translate(5 5)" x="133" y="161" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="134.42474, " y="166, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 161L133 168"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 161L140 161"/>
+	<rect fill="white" transform="translate(5 5)" x="140" y="154" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="141.42474, " y="159, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 154L147 161"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M140 161L147 161"/>
+	<rect transform="translate(5 5)" x="133" y="154" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="134.42474, " y="159, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 154L133 161"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 161L140 161"/>
+	<rect transform="translate(5 5)" x="140" y="147" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="141.42474, " y="152, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 147L147 154"/>
+	<rect fill="white" transform="translate(5 5)" x="133" y="147" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="134.42474, " y="152, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 147L133 154"/>
+	<rect fill="white" transform="translate(5 5)" x="140" y="105" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="141.42474, " y="110, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 105L147 112"/>
+	<rect transform="translate(5 5)" x="133" y="105" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="134.42474, " y="110, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 105L133 112"/>
+	<rect fill="white" transform="translate(5 5)" x="140" y="98" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="141.42474, " y="103, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M140 98L147 98"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 98L147 105"/>
+	<rect transform="translate(5 5)" x="133" y="98" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="134.42474, " y="103, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 98L133 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 98L140 98"/>
+	<rect fill="white" transform="translate(5 5)" x="140" y="91" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="141.42474, " y="96, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 91L147 98"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M140 98L147 98"/>
+	<rect transform="translate(5 5)" x="133" y="91" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="134.42474, " y="96, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 91L133 98"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 98L140 98"/>
+	<rect fill="white" transform="translate(5 5)" x="140" y="84" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="141.42474, " y="89, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 84L147 91"/>
+	<rect fill="white" transform="translate(5 5)" x="133" y="84" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="134.42474, " y="89, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 84L133 91"/>
+	<rect transform="translate(5 5)" x="140" y="77" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="141.42474, " y="82, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 77L147 84"/>
+	<rect fill="white" transform="translate(5 5)" x="133" y="77" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="134.42474, " y="82, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 77L133 84"/>
+	<rect fill="white" transform="translate(5 5)" x="140" y="70" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="141.42474, " y="75, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M140 70L147 70"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 70L147 77"/>
+	<rect fill="white" transform="translate(5 5)" x="133" y="70" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="134.42474, " y="75, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 70L133 77"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 70L140 70"/>
+	<rect fill="white" transform="translate(5 5)" x="140" y="63" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="141.42474, " y="68, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M140 63L147 63"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M147 63L147 70"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M140 70L147 70"/>
+	<rect transform="translate(5 5)" x="133" y="63" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="134.42474, " y="68, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 63L140 63"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 70L140 70"/>
+	<rect transform="translate(5 5)" x="126" y="63" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="127.42474, " y="68, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M126 63L133 63"/>
+	<rect fill="white" transform="translate(5 5)" x="119" y="63" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="120.42474, " y="68, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 63L119 70"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 63L126 63"/>
+	<rect transform="translate(5 5)" x="126" y="70" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="127.42474, " y="75, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 70L133 77"/>
+	<rect fill="white" transform="translate(5 5)" x="119" y="70" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="120.42474, " y="75, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 70L119 77"/>
+	<rect fill="white" transform="translate(5 5)" x="126" y="77" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="127.42474, " y="82, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 77L133 84"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M126 84L133 84"/>
+	<rect transform="translate(5 5)" x="119" y="77" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="120.42474, " y="82, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 77L119 84"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 84L126 84"/>
+	<rect fill="white" transform="translate(5 5)" x="126" y="84" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="127.42474, " y="89, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M126 84L133 84"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 84L133 91"/>
+	<rect transform="translate(5 5)" x="119" y="84" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="120.42474, " y="89, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 84L119 91"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 84L126 84"/>
+	<rect transform="translate(5 5)" x="126" y="91" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="127.42474, " y="96, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 91L133 98"/>
+	<rect fill="white" transform="translate(5 5)" x="119" y="91" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="120.42474, " y="96, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 91L119 98"/>
+	<rect fill="white" transform="translate(5 5)" x="126" y="98" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="127.42474, " y="103, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 98L133 105"/>
+	<rect transform="translate(5 5)" x="119" y="98" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="120.42474, " y="103, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 98L119 105"/>
+	<rect fill="white" transform="translate(5 5)" x="126" y="105" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="127.42474, " y="110, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 105L133 112"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M126 112L133 112"/>
+	<rect fill="white" transform="translate(5 5)" x="119" y="105" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="120.42474, " y="110, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 105L119 112"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 112L126 112"/>
+	<rect fill="white" transform="translate(5 5)" x="126" y="147" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="127.42474, " y="152, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M126 147L133 147"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 147L133 154"/>
+	<rect transform="translate(5 5)" x="119" y="147" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="120.42474, " y="152, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 147L119 154"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 147L126 147"/>
+	<rect transform="translate(5 5)" x="126" y="154" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="127.42474, " y="159, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 154L133 161"/>
+	<rect fill="white" transform="translate(5 5)" x="119" y="154" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="120.42474, " y="159, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 154L119 161"/>
+	<rect fill="white" transform="translate(5 5)" x="126" y="161" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="127.42474, " y="166, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 161L133 168"/>
+	<rect transform="translate(5 5)" x="119" y="161" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="120.42474, " y="166, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 161L119 168"/>
+	<rect fill="white" transform="translate(5 5)" x="126" y="168" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="127.42474, " y="173, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M133 168L133 175"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M126 175L133 175"/>
+	<rect fill="white" transform="translate(5 5)" x="119" y="168" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="120.42474, " y="173, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 168L119 175"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 175L126 175"/>
+	<rect fill="white" transform="translate(5 5)" x="112" y="168" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="173, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 168L119 175"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 175L119 175"/>
+	<rect transform="translate(5 5)" x="105" y="168" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="173, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 168L105 175"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 175L112 175"/>
+	<rect transform="translate(5 5)" x="112" y="161" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="166, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 161L119 168"/>
+	<rect fill="white" transform="translate(5 5)" x="105" y="161" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="166, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 161L105 168"/>
+	<rect fill="white" transform="translate(5 5)" x="112" y="154" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="159, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 154L119 161"/>
+	<rect transform="translate(5 5)" x="105" y="154" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="159, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 154L105 161"/>
+	<rect fill="white" transform="translate(5 5)" x="112" y="147" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="152, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 147L119 147"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 147L119 154"/>
+	<rect transform="translate(5 5)" x="105" y="147" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="152, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 147L105 154"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 147L112 147"/>
+	<rect fill="white" transform="translate(5 5)" x="105" y="140" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="145, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 140L105 147"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 140L112 147"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 147L112 147"/>
+	<rect transform="translate(5 5)" x="105" y="133" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="138, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 133L105 140"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 133L112 140"/>
+	<rect transform="translate(5 5)" x="105" y="126" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="131, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 126L105 133"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 126L112 133"/>
+	<rect fill="white" transform="translate(5 5)" x="105" y="119" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="124, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 119L105 126"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 119L112 126"/>
+	<rect transform="translate(5 5)" x="105" y="112" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="117, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 112L105 119"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 112L112 119"/>
+	<rect transform="translate(5 5)" x="112" y="105" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="110, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 105L119 112"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 112L119 112"/>
+	<rect transform="translate(5 5)" x="105" y="105" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="110, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 105L105 112"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 105L112 105"/>
+	<rect fill="white" transform="translate(5 5)" x="112" y="98" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="103, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 98L112 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 98L119 98"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 98L119 105"/>
+	<rect fill="white" transform="translate(5 5)" x="105" y="98" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="103, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 98L105 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 98L112 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 105L112 105"/>
+	<rect transform="translate(5 5)" x="112" y="91" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="96, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 91L119 98"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 98L119 98"/>
+	<rect fill="white" transform="translate(5 5)" x="105" y="91" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="96, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 91L105 98"/>
+	<rect fill="white" transform="translate(5 5)" x="112" y="84" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="89, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 84L119 91"/>
+	<rect transform="translate(5 5)" x="105" y="84" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="89, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 84L105 91"/>
+	<rect transform="translate(5 5)" x="112" y="77" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="82, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 77L119 84"/>
+	<rect fill="white" transform="translate(5 5)" x="105" y="77" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="82, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 77L105 84"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 77L112 77"/>
+	<rect fill="white" transform="translate(5 5)" x="112" y="70" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="75, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 70L112 77"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 70L119 70"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 70L119 77"/>
+	<rect fill="white" transform="translate(5 5)" x="105" y="70" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="75, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 70L105 77"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 70L112 77"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 77L112 77"/>
+	<rect transform="translate(5 5)" x="112" y="63" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="68, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 63L119 70"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 70L119 70"/>
+	<rect transform="translate(5 5)" x="105" y="63" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="68, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 63L105 70"/>
+	<rect fill="white" transform="translate(5 5)" x="112" y="56" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="61, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 56L119 63"/>
+	<rect fill="white" transform="translate(5 5)" x="105" y="56" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="61, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 56L105 63"/>
+	<rect fill="white" transform="translate(5 5)" x="112" y="49" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="54, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 49L119 56"/>
+	<rect fill="white" transform="translate(5 5)" x="105" y="49" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="54, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 49L105 56"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 49L112 49"/>
+	<rect transform="translate(5 5)" x="112" y="35" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="40, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 35L112 42"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 35L119 35"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 35L119 42"/>
+	<rect fill="white" transform="translate(5 5)" x="105" y="35" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="40, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 35L105 42"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 35L112 42"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 42L112 42"/>
+	<rect transform="translate(5 5)" x="112" y="28" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="33, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 28L119 35"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 35L119 35"/>
+	<rect transform="translate(5 5)" x="105" y="28" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="33, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 28L105 35"/>
+	<rect fill="white" transform="translate(5 5)" x="112" y="21" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="26, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 21L119 28"/>
+	<rect transform="translate(5 5)" x="105" y="21" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="26, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 21L105 28"/>
+	<rect transform="translate(5 5)" x="112" y="14" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="19, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 14L119 21"/>
+	<rect transform="translate(5 5)" x="105" y="14" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="19, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 14L105 21"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 14L112 14"/>
+	<rect fill="white" transform="translate(5 5)" x="112" y="7" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="12, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 7L112 14"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 7L119 7"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 7L119 14"/>
+	<rect fill="white" transform="translate(5 5)" x="105" y="7" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="12, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 7L112 14"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 14L112 14"/>
+	<rect transform="translate(5 5)" x="112" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="113.42474, " y="5, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 0L119 0"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M119 0L119 7"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M112 7L119 7"/>
+	<rect transform="translate(5 5)" x="105" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="106.42474, " y="5, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 0L112 0"/>
+	<rect fill="white" transform="translate(5 5)" x="98" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="5, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 0L105 0"/>
+	<rect fill="white" transform="translate(5 5)" x="91" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="5, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 0L91 7"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 0L98 0"/>
+	<rect transform="translate(5 5)" x="98" y="7" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="12, ">
+			2
+	</text>
+	<rect transform="translate(5 5)" x="91" y="7" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="12, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 7L91 14"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 14L98 14"/>
+	<rect transform="translate(5 5)" x="98" y="14" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="19, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 14L98 21"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 14L105 21"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 21L105 21"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="14" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="19, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 14L91 21"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 14L98 14"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 14L98 21"/>
+	<rect transform="translate(5 5)" x="98" y="21" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="26, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 21L105 21"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 21L105 28"/>
+	<rect transform="translate(5 5)" x="91" y="21" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="26, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 21L91 28"/>
+	<rect transform="translate(5 5)" x="98" y="28" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="33, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 28L105 35"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="28" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="33, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 28L91 35"/>
+	<rect transform="translate(5 5)" x="98" y="35" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="40, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 35L105 42"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="35" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="40, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 35L91 42"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 42L98 42"/>
+	<rect transform="translate(5 5)" x="98" y="49" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="54, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 49L98 56"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 49L105 56"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 56L105 56"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="49" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="54, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 49L91 56"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 49L98 49"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 49L98 56"/>
+	<rect transform="translate(5 5)" x="98" y="56" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="61, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 56L105 56"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 56L105 63"/>
+	<rect transform="translate(5 5)" x="91" y="56" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="61, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 56L91 63"/>
+	<rect fill="white" transform="translate(5 5)" x="98" y="63" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="68, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 63L105 70"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="63" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="68, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 63L91 70"/>
+	<rect fill="white" transform="translate(5 5)" x="98" y="70" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="75, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 70L105 77"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="70" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="75, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 70L91 77"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 77L98 77"/>
+	<rect transform="translate(5 5)" x="98" y="77" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="82, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 77L98 84"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 77L105 84"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 84L105 84"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="77" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="82, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 77L91 84"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 77L98 77"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 77L98 84"/>
+	<rect transform="translate(5 5)" x="98" y="84" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="89, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 84L105 84"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 84L105 91"/>
+	<rect transform="translate(5 5)" x="91" y="84" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="89, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 84L91 91"/>
+	<rect fill="white" transform="translate(5 5)" x="98" y="91" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="96, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 91L105 98"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="91" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="96, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 91L91 98"/>
+	<rect transform="translate(5 5)" x="98" y="98" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="103, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 98L105 105"/>
+	<rect transform="translate(5 5)" x="91" y="98" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="103, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 98L91 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 105L98 105"/>
+	<rect transform="translate(5 5)" x="98" y="105" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="110, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 105L98 112"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 105L105 112"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 112L105 112"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="105" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="110, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 105L91 112"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 105L98 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 105L98 112"/>
+	<rect transform="translate(5 5)" x="98" y="112" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="117, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 112L105 112"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 112L105 119"/>
+	<rect transform="translate(5 5)" x="91" y="112" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="117, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 112L91 119"/>
+	<rect fill="white" transform="translate(5 5)" x="98" y="119" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="124, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 119L105 126"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="119" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="124, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 119L91 126"/>
+	<rect transform="translate(5 5)" x="98" y="126" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="131, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 126L105 133"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="126" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="131, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 126L91 133"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 133L98 133"/>
+	<rect transform="translate(5 5)" x="98" y="133" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="138, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 133L98 140"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 133L105 140"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 140L105 140"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="133" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="138, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 133L91 140"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 133L98 133"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 133L98 140"/>
+	<rect fill="white" transform="translate(5 5)" x="98" y="140" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="145, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 140L105 140"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 140L105 147"/>
+	<rect transform="translate(5 5)" x="91" y="140" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="145, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 140L91 147"/>
+	<rect fill="white" transform="translate(5 5)" x="98" y="147" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="152, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 147L105 154"/>
+	<rect transform="translate(5 5)" x="91" y="147" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="152, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 147L91 154"/>
+	<rect transform="translate(5 5)" x="98" y="154" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="159, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 154L105 161"/>
+	<rect transform="translate(5 5)" x="91" y="154" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="159, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 154L91 161"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 161L98 161"/>
+	<rect fill="white" transform="translate(5 5)" x="98" y="161" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="166, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 161L98 168"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 161L105 168"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 168L105 168"/>
+	<rect fill="white" transform="translate(5 5)" x="91" y="161" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="166, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 161L98 161"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 161L98 168"/>
+	<rect transform="translate(5 5)" x="98" y="168" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="99.424744, " y="173, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 168L105 168"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M105 168L105 175"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M98 175L105 175"/>
+	<rect transform="translate(5 5)" x="91" y="168" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="92.424744, " y="173, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 175L98 175"/>
+	<rect fill="white" transform="translate(5 5)" x="84" y="168" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="85.424744, " y="173, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M84 175L91 175"/>
+	<rect fill="white" transform="translate(5 5)" x="77" y="168" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="78.424744, " y="173, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 168L77 175"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 175L84 175"/>
+	<rect fill="white" transform="translate(5 5)" x="84" y="161" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="85.424744, " y="166, ">
+			2
+	</text>
+	<rect transform="translate(5 5)" x="77" y="161" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="78.424744, " y="166, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 161L77 168"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 161L84 161"/>
+	<rect transform="translate(5 5)" x="84" y="154" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="85.424744, " y="159, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M84 154L84 161"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M84 154L91 154"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 154L91 161"/>
+	<rect fill="white" transform="translate(5 5)" x="77" y="154" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="78.424744, " y="159, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 154L77 161"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M84 154L84 161"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 161L84 161"/>
+	<rect transform="translate(5 5)" x="84" y="147" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="85.424744, " y="152, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 147L91 154"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M84 154L91 154"/>
+	<rect transform="translate(5 5)" x="77" y="147" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="78.424744, " y="152, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 147L77 154"/>
+	<rect fill="white" transform="translate(5 5)" x="84" y="140" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="85.424744, " y="145, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 140L91 147"/>
+	<rect transform="translate(5 5)" x="77" y="140" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="78.424744, " y="145, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 140L77 147"/>
+	<rect transform="translate(5 5)" x="84" y="133" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="85.424744, " y="138, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 133L91 140"/>
+	<rect transform="translate(5 5)" x="77" y="133" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="78.424744, " y="138, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 133L77 140"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 133L84 133"/>
+	<rect transform="translate(5 5)" x="84" y="126" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="85.424744, " y="131, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M84 126L84 133"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M84 126L91 126"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 126L91 133"/>
+	<rect fill="white" transform="translate(5 5)" x="77" y="126" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="78.424744, " y="131, ">
+			7
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 126L77 133"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M84 126L84 133"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 133L84 133"/>
+	<rect transform="translate(5 5)" x="84" y="119" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="85.424744, " y="124, ">
+			6
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 119L91 126"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M84 126L91 126"/>
+	<rect transform="translate(5 5)" x="77" y="119" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="78.424744, " y="124, ">
+			5
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 119L77 126"/>
+	<rect fill="white" transform="translate(5 5)" x="84" y="112" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="85.424744, " y="117, ">
+			4
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 112L91 119"/>
+	<rect transform="translate(5 5)" x="77" y="112" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="78.424744, " y="117, ">
+			3
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 112L77 119"/>
+	<rect transform="translate(5 5)" x="84" y="105" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="85.424744, " y="110, ">
+			2
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 105L91 112"/>
+	<rect fill="white" transform="translate(5 5)" x="77" y="105" width="7" height="7"/>
+	<text transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="78.424744, " y="110, ">
+			1
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 105L77 112"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M77 105L84 105"/>
+	<rect transform="translate(5 5)" x="84" y="98" width="7" height="7"/>
+	<text fill="white" transform="translate(5 5)" font-size="5.25" font-family="Roboto Mono" x="85.424744, " y="103, ">
+			0
+	</text>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M84 98L84 105"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M84 98L91 98"/>
+	<path fill="none" stroke="rgb(231,69,54)" stroke-width="1" stroke-linecap="round" stroke-miterlimit="4" transform="translate(5 5)" d="M91 98L91 105"/>
+	<text transform="translate(5 5)" font-size="9" font-family="Sabon LT Pro" x="178.5, 183.504, 186.006, 191.00999, 196.01401, 201.01801, 206.022, 211.026, 216.03, 221.034, 226.03801, 228.54001, 231.537, 236.54102, 243.543, 248.547, " y="73, ">
+			= 01110111 (“w”)
+	</text>
+	<text transform="translate(5 5)" font-size="9" font-family="Sabon LT Pro" x="178.5, 183.504, 186.006, 191.00999, 196.01401, 201.01801, 206.022, 211.026, 216.03, 221.034, 226.03801, 228.54001, 231.537, 236.54102, 243.543, 248.547, " y="94, ">
+			= 01110111 (“w”)
+	</text>
+	<text transform="translate(5 5)" font-size="9" font-family="Sabon LT Pro" x="178.5, 183.504, 186.006, 191.00999, 196.01401, 201.01801, 206.022, 211.026, 216.03, 221.034, 226.03801, 228.54001, 231.537, 236.54102, 243.543, 248.547, " y="122, ">
+			= 01110111 (“w”)
+	</text>
+</svg>
