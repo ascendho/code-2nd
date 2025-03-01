@@ -1,6 +1,6 @@
 ## 关于本项目
 
-本项目包含了大名鼎鼎的著作 *Code: The Hidden Language of Computer Hardware and Software, 2nd Edition* 的一些参考资源（勘误表、书籍插图和PDF）和个人笔记。
+本项目包含了大名鼎鼎的著作 *Code: The Hidden Language of Computer Hardware and Software, 2nd Edition* 的一些参考资源（勘误表、书籍插图和PDF）和<a href="个人笔记">个人笔记</a>。
 
 <div align="center"><img src="assets/image-20250223160328936.png"></div>
 
