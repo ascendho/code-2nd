@@ -1,6 +1,15 @@
-## 关于本项目
+<div align="center">
 
-本项目包含了大名鼎鼎的著作 *Code: The Hidden Language of Computer Hardware and Software, 2nd Edition* 的一些参考资源（勘误表，书籍插图、[交互式网站](https://codehiddenlanguage.com/)、英文版PDF）和<a href="个人笔记">个人笔记</a>。
+![Stars](https://img.shields.io/github/stars/ascendho/code-2nd?style=flat)
+![Forks](https://img.shields.io/github/forks/ascendho/code-2nd?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/ascendho/code-2nd?style=flat)
+![Repo Size](https://img.shields.io/github/repo-size/ascendho/code-2nd?style=flat)
+
+</div>
+
+## code-2nd
+
+本项目包含了大名鼎鼎的著作 *Code: The Hidden Language of Computer Hardware and Software, 2<sup>nd</sup> Edition* 的一些参考资源（勘误表，书籍插图、[交互式网站](https://codehiddenlanguage.com/)、英文版PDF）和<a href="个人笔记">个人笔记</a>。
 
 <div align="center"><img src="assets/image-20250223160328936.png"></div>
 
@@ -12,6 +21,15 @@
 
 另：若本项目对您有所帮助，请在页面右上角点个 Star ⭐ 支持一下，谢谢！
 
-## 许可证
+## 勘误
 
-本仓库的所有资源（包括个人笔记）仅供学习交流使用，不可用于商业用途。若该仓库可能影响到了你的权益，可联系<a href="mailto:ascendho@outlook.com">本人</a>删除相关内容。
+如发现书中内容有误，可通过以下渠道反馈：
+
+- **Microsoft Press 官方勘误页**：[https://www.microsoftpressstore.com/contact-us/errata](https://www.microsoftpressstore.com/contact-us/errata)
+- **联系作者**：[cp@charlespetzold.com](mailto:cp@charlespetzold.com)
+
+此外，本仓库的 [勘误表](勘误表) 目录中收录了官方勘误文档，可供参考。
+
+> [!IMPORTANT]
+>
+> 本仓库所有资源（包括个人笔记）仅供个人学习交流使用，请勿用于任何商业用途。书籍及相关插图等内容的版权归原作者 *Charles Petzold* 与出版社所有，本仓库不持有任何版权。若本仓库内容影响到您的权益，请联系<a href="mailto:ascendho@outlook.com">本人</a>，将及时删除相关内容。
