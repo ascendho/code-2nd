@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="132">
+	<path fill="none" stroke="white" stroke-width="3" stroke-miterlimit="4" d="M164.375 11.25L169.375 11.25"/>
+	<path fill="white" d="M163.875 11.25L163.875 25.75L161.875 25.75L166.875 32.75L171.875 25.75L169.875 25.75L169.875 11.25"/>
+	<path fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" stroke-miterlimit="4" d="M163.875 11.25L163.875 25.75L161.875 25.75L166.875 32.75L171.875 25.75L169.875 25.75L169.875 11.25"/>
+	<path fill="none" stroke="white" stroke-width="3" stroke-miterlimit="4" d="M67.625 11.25L78.625 11.25"/>
+	<path fill="white" d="M67.125 11.25L67.125 25.75L65.125 25.75L73.125 32.75L81.125 25.75L79.125 25.75L79.125 11.25"/>
+	<path fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" stroke-miterlimit="4" d="M67.125 11.25L67.125 25.75L65.125 25.75L73.125 32.75L81.125 25.75L79.125 25.75L79.125 11.25"/>
+	<path fill="none" stroke="white" stroke-width="3" stroke-miterlimit="4" d="M164.375 93.75L169.375 93.75"/>
+	<path fill="white" d="M163.875 93.75L163.875 108.25L161.875 108.25L166.875 115.25L171.875 108.25L169.875 108.25L169.875 93.75"/>
+	<path fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" stroke-miterlimit="4" d="M163.875 93.75L163.875 108.25L161.875 108.25L166.875 115.25L171.875 108.25L169.875 108.25L169.875 93.75"/>
+	<path fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" stroke-miterlimit="4" d="M3.75 63.75L25.25 63.75"/>
+	<path d="M19.9058 60.7917L26.25 63.75L19.9058 66.7083L19.9058 60.7917Z"/>
+	<path fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" stroke-miterlimit="4" d="M236.25 63.75L214.75 63.75"/>
+	<path d="M220.094 66.7083L213.75 63.75L220.094 60.7917L220.094 66.7083Z"/>
+	<rect fill="none" stroke="black" vector-effect="non-scaling-stroke" stroke-width="1" stroke-linejoin="round" x="26.25" y="33.75" width="187.5" height="60"/>
+	<text font-size="9" font-family="Segoe UI" x="93.741699, 98.593262, 103.44482, 108.66553, 111.13086, 117.2876, 119.75293, 124.60449, 127.06982, 132.45313, 138.2583, " y="67.25, ">
+			64K × 8 RAM
+	</text>
+	<text font-size="7.2000003" font-family="Segoe UI" x="60.401367, 65.045509, 69.285355, 73.525192, 76.02832, 79.793556, 82.848633, " y="41.75, ">
+			Address
+	</text>
+	<text font-size="7.2000003" font-family="Segoe UI" x="155.52344, 160.57187, 164.23515, 166.675, 170.33829, 172.31055, 174.22656, " y="40.75, ">
+			Data In
+	</text>
+	<text font-size="7.2000003" font-family="Segoe UI" x="152.23007, 157.2785, 160.94179, 163.38164, 167.04492, 169.01718, 174.44531, 178.51991, " y="91.75, ">
+			Data Out
+	</text>
+	<text font-size="7.2000003" font-family="Segoe UI" x="28.25, 34.975391, 37.478516, 39.222267, 41.662109, " y="66.25, ">
+			Write
+	</text>
+	<text font-size="7.2000003" font-family="Segoe UI" x="190.39336, 194.03554, 198.11015, 201.77344, 206.00626, 207.75, " y="66.75, ">
+			Enable
+	</text>
+	<text font-size="9" font-family="Segoe UI" x="48.827148, 54.632324, 59.932129, 65.231934, 68.36084, 73.067383, 76.88623, 80.705078, 83.17041, 88.32959, 93.422852, " y="9.25, ">
+			Address Bus
+	</text>
+	<text font-size="9" font-family="Segoe UI" x="149.25684, 155.56738, 160.14648, 163.19629, 167.77539, 170.24072, 175.3999, 180.49316, " y="9.25, ">
+			Data Bus
+	</text>
+	<text font-size="9" font-family="Segoe UI" x="149.25684, 155.56738, 160.14648, 163.19629, 167.77539, 170.24072, 175.3999, 180.49316, " y="125.25, ">
+			Data Bus
+	</text>
+</svg>
