@@ -9,7 +9,7 @@
 
 ## code-2nd
 
-本项目整理了 Microsoft Press 出版的著作 *Code: The Hidden Language of Computer Hardware and Software, 2<sup>nd</sup> Edition* 的一些参考资源，包括官方样例 PDF（[Logic with Switches](https://www.microsoftpressstore.com/articles/article.aspx?p=3150377)、[Bit by Bit by Bit](https://www.microsoftpressstore.com/articles/article.aspx?p=3150378)）、官方勘误、替换插图以及个人笔记。
+本项目整理了 Microsoft Press 出版的著作 *Code: The Hidden Language of Computer Hardware and Software, 2<sup>nd</sup> Edition* 的一些参考资源，包括官方样例 PDF（[Logic with Switches](https://www.microsoftpressstore.com/articles/article.aspx?p=3150377)、[Bit by Bit by Bit](https://www.microsoftpressstore.com/articles/article.aspx?p=3150378)）、勘误表、教材插图以及个人笔记。
 
 <div align="center">
   <a href="https://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html">
