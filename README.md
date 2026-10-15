@@ -28,7 +28,15 @@
 - **Microsoft Press 官方勘误页**：[https://www.microsoftpressstore.com/contact-us/errata](https://www.microsoftpressstore.com/contact-us/errata)
 - **联系作者**：[cp@charlespetzold.com](mailto:cp@charlespetzold.com)
 
-此外，本仓库的 [勘误表](勘误表) 目录中收录了官方勘误文档，可供参考。
+此外，本仓库的 [勘误表](勘误表) 目录中收录了 Microsoft Press 发布的官方勘误文档，可供参考。为保持官方文档的原貌，尚未被 Microsoft Press 收录、但已由其他权威来源确认的问题，将暂列在下方的“社区补充勘误”中。
+
+### 社区补充勘误
+
+| 版本与位置 | 问题 | 更正 | 确认状态 |
+| --- | --- | --- | --- |
+| 中文第 2 版第 312 页第 2 张图；英文第 2 版第 367 页下方对应图；[官网 Chapter 23 综合电路图](https://codehiddenlanguage.com/Chapter23) | 生成 `2-Cycle Execute` 信号的 OR 门遗漏了来自 `INX HL` 和 `DCX HL` 的两路输入，导致这两条指令被错误归入 `1-Cycle Execute`。 | 将 `INX HL` 和 `DCX HL` 接入该 OR 门，使两条指令按 `EC1 → EP1 → EC2 → EP2` 完成两个执行周期。 | 机械工业出版社联系译者后确认此处确有问题，并表示中文版重印时将修正；Microsoft Press 或英文原作者尚未确认。详见 [Issue #2](https://github.com/ascendho/code-2nd/issues/2#issuecomment-6184691724)。 |
+
+感谢 [@yudabao8](https://github.com/yudabao8) 发现并认真核验上述问题，同时向出版社提交反馈并同步确认结果。
 
 > [!IMPORTANT]
 >
