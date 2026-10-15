@@ -9,12 +9,12 @@
 
 ## code-2nd
 
-本项目整理了著作 *Code: The Hidden Language of Computer Hardware and Software, 2<sup>nd</sup> Edition* 的一些参考资源，包括 Microsoft Press 官方样例 PDF（[Logic with Switches](https://www.microsoftpressstore.com/articles/article.aspx?p=3150377)、[Bit by Bit by Bit](https://www.microsoftpressstore.com/articles/article.aspx?p=3150378)）、官方勘误与替换插图、[交互式网站](https://codehiddenlanguage.com/)以及个人笔记。
+本项目整理了 Microsoft Press 出版的著作 *Code: The Hidden Language of Computer Hardware and Software, 2<sup>nd</sup> Edition* 的一些参考资源，包括官方样例 PDF（[Logic with Switches](https://www.microsoftpressstore.com/articles/article.aspx?p=3150377)、[Bit by Bit by Bit](https://www.microsoftpressstore.com/articles/article.aspx?p=3150378)）、官方勘误、替换插图以及个人笔记。
 
 <div align="center">
-  <img src="assets/Code1H450.png" alt="《编码》第一版封面" />
-  &nbsp;&nbsp;⇒&nbsp;&nbsp;
-  <img src="assets/Code2H450.png" alt="《编码》第二版封面" />
+  <a href="https://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html">
+    <img src="assets/Code-Editions-Comparison.png" alt="《Code》第一版与第二版封面对比" width="766" />
+  </a>
 </div>
 
 本书讲述的是计算机工作原理。作者用丰富的想象和清晰的笔墨将看似繁杂的理论阐述得通俗易懂，你丝毫不会感到枯燥和生硬。更重要的是，你会因此而获得对计算机工作原理较深刻的理解。这种理解不是抽象层面上的，而是具有一定深度的。新版本编码更深入地探索了每个智能设备核心的逐位逐门构造：中央处理器，它结合了最基本的操作来执行最复杂的任务。关于第二版和第一版详细的区别，请访问作者的这篇[博客](https://www.charlespetzold.com/blog/2022/09/The-Changes-for-the-2nd-Edition-of-Code.html)获取更多信息。
@@ -30,7 +30,7 @@
 - **Microsoft Press 官方勘误页**：[https://www.microsoftpressstore.com/contact-us/errata](https://www.microsoftpressstore.com/contact-us/errata)
 - **联系作者**：[cp@charlespetzold.com](mailto:cp@charlespetzold.com)
 
-此外，本仓库的 [勘误表](勘误表) 目录中收录了 Microsoft Press 发布的官方勘误文档，可供参考。为保持官方文档的原貌，尚未被 Microsoft Press 收录、但已由其他权威来源确认的问题，将暂列在下方的“社区补充勘误”中。
+此外，本仓库的[勘误表](勘误表)目录中收录了 Microsoft Press 发布的官方勘误文档，可供参考。为保持官方文档的原貌，尚未被 Microsoft Press 收录、但已由其他权威来源确认的问题，将暂列在下方的“社区补充勘误”中。
 
 ### 社区补充勘误
 
