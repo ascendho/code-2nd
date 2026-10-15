@@ -9,11 +9,13 @@
 
 ## code-2nd
 
-本项目包含了大名鼎鼎的著作 *Code: The Hidden Language of Computer Hardware and Software, 2<sup>nd</sup> Edition* 的一些参考资源（勘误表，书籍插图、[交互式网站](https://codehiddenlanguage.com/)、英文版 PDF）和<a href="个人笔记">个人笔记</a>。
+本项目整理了著作 *Code: The Hidden Language of Computer Hardware and Software, 2<sup>nd</sup> Edition* 的一些参考资源，包括 Microsoft Press 官方样例 PDF（[Logic with Switches](https://www.microsoftpressstore.com/articles/article.aspx?p=3150377)、[Bit by Bit by Bit](https://www.microsoftpressstore.com/articles/article.aspx?p=3150378)）、官方勘误与替换插图、[交互式网站](https://codehiddenlanguage.com/)以及个人笔记。
 
-<div align="center"><img src="assets/image-20250223160328936.png"></div>
-
-
+<div align="center">
+  <img src="assets/Code1H450.png" alt="《编码》第一版封面" />
+  &nbsp;&nbsp;⇒&nbsp;&nbsp;
+  <img src="assets/Code2H450.png" alt="《编码》第二版封面" />
+</div>
 
 本书讲述的是计算机工作原理。作者用丰富的想象和清晰的笔墨将看似繁杂的理论阐述得通俗易懂，你丝毫不会感到枯燥和生硬。更重要的是，你会因此而获得对计算机工作原理较深刻的理解。这种理解不是抽象层面上的，而是具有一定深度的。新版本编码更深入地探索了每个智能设备核心的逐位逐门构造：中央处理器，它结合了最基本的操作来执行最复杂的任务。关于第二版和第一版详细的区别，请访问作者的这篇[博客](https://www.charlespetzold.com/blog/2022/09/The-Changes-for-the-2nd-Edition-of-Code.html)获取更多信息。
 
