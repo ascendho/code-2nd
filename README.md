@@ -40,6 +40,12 @@
 
 感谢 [@yudabao8](https://github.com/yudabao8) 发现并认真核验上述问题，同时向出版社提交反馈并同步确认结果。
 
+## 许可
+
+本仓库中由 [@ascendho](https://github.com/ascendho) 原创的文字内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可，允许在署名、非商业和相同方式共享的条件下转载及改编。
+
+官方样例 PDF、官方勘误、教材插图、书籍封面以及其他第三方材料不适用该许可证，其版权及相关权利归原作者、出版社或其他相应权利人所有。具体许可范围与第三方材料清单请参阅 [LICENSE](LICENSE) 和 [NOTICE.md](NOTICE.md)。
+
 > [!IMPORTANT]
 >
-> 本仓库所有资源（包括个人笔记）仅供个人学习交流使用，请勿用于任何商业用途。书籍及相关插图等内容的版权归原作者 *Charles Petzold* 与出版社所有，本仓库不持有任何版权。若本仓库内容影响到您的权益，请联系<a href="mailto:ascendho@outlook.com">本人</a>，将及时删除相关内容。
+> 本仓库收录、引用或展示第三方材料不表示维护者拥有其版权，也不授予任何额外使用权。使用者应自行确认并遵守相应权利人的许可条款及适用法律。若本仓库内容影响到您的权益，请联系<a href="mailto:ascendho@outlook.com">本人</a>，将及时处理。
