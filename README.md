@@ -3,6 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/ascendho/code-2nd?style=flat)
 ![Forks](https://img.shields.io/github/forks/ascendho/code-2nd?style=flat)
 ![Last Commit](https://img.shields.io/github/last-commit/ascendho/code-2nd?style=flat)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue?style=flat)](LICENSE)
 ![Repo Size](https://img.shields.io/github/repo-size/ascendho/code-2nd?style=flat)
 
 </div>
